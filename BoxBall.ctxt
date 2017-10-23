@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BoxBall
+comment1.params=xPos\ yPos\ xSpeed\ ySpeed\ ballDiameter\ ballColor\ boundingRectangle\ drawingCanvas
+comment1.target=BoxBall(int,\ int,\ int,\ int,\ int,\ java.awt.Color,\ java.awt.Rectangle,\ Canvas)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BoxBall\n\n\ @param\ xPos\ \ the\ horizontal\ coordinate\ of\ the\ ball\n\ @param\ yPos\ \ the\ vertical\ coordinate\ of\ the\ ball\n\ @param\ xSpeed\ \ the\ horizontal\ speed\ of\ the\ ball\n\ @param\ ySpeed\ \ the\ vertical\ speed\ of\ the\ ball\n\ \n\ @param\ ballDiameter\ \ the\ diameter\ (in\ pixels)\ of\ the\ ball\n\ @param\ ballColor\ \ the\ color\ of\ the\ ball\n\ @param\ bounds\ the\ rectangle\ the\ ball\ should\ bounce\ withing\n\ @param\ drawingCanvas\ \ the\ canvas\ to\ draw\ this\ ball\ on\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\n\ Draw\ this\ ball\ at\ its\ current\ position\ onto\ the\ canvas.\n
+comment3.params=
+comment3.target=void\ erase()
+comment3.text=\n\ Erase\ this\ ball\ at\ its\ current\ position.\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\n\ Move\ this\ ball\ according\ to\ its\ position\ and\ speed\ and\ redraw.\n
+comment5.params=
+comment5.target=int\ getXPosition()
+comment5.text=\n\ return\ the\ horizontal\ position\ of\ this\ ball\n
+comment6.params=
+comment6.target=int\ getYPosition()
+comment6.text=\n\ return\ the\ vertical\ position\ of\ this\ ball\n
+numComments=7
